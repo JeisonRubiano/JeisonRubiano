@@ -29,6 +29,7 @@
 | Proyecto | Descripción | Herramientas |
 |---|---|---|
 | [🌿 Análisis NDVI Colombia](https://github.com/JeisonRubiano/analisis-ndvi-colombia) | Análisis de vegetación en Colombia usando Sentinel-2 e índice NDVI | Python · GEE · Geemap |
+| [🌾 Monitoreo Cultivos Valle del Cauca](https://github.com/JeisonRubiano/monitoreo-cultivos-valle-cauca) | Series de tiempo NDVI mensual 2023 con detección de ciclos de cultivo | Python · GEE · Folium |
 
 *Más proyectos en construcción...*
 
