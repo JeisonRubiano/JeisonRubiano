@@ -28,10 +28,11 @@
 
 | Proyecto | Descripción | Herramientas |
 |---|---|---|
-| [🌿 Análisis NDVI Colombia](https://github.com/JeisonRubiano/analisis-ndvi-colombia) | Análisis de vegetación en Colombia usando Sentinel-2 e índice NDVI | Python · GEE · Geemap |
-| [🌾 Monitoreo Cultivos Valle del Cauca](https://github.com/JeisonRubiano/monitoreo-cultivos-valle-cauca) | Series de tiempo NDVI mensual 2023 con detección de ciclos de cultivo | Python · GEE · Folium |
-
-*Más proyectos en construcción...*
+| [🌿 Análisis NDVI Colombia](https://github.com/JeisonRubiano/analisis-ndvi-colombia) | Índice de vegetación comparando zonas urbanas vs rurales con Sentinel-2 | Python · GEE · Geemap |
+| [🌳 Detección Cambios Forestales](https://github.com/JeisonRubiano/deteccion-cambios-forestales-amazonia) | Deforestación en Amazonía colombiana 2020 vs 2024 — 1,285 km² detectados | Python · GEE · Folium |
+| [🌾 Monitoreo Cultivos Valle del Cauca](https://github.com/JeisonRubiano/monitoreo-cultivos-valle-cauca) | Series de tiempo NDVI mensual 2023 — ciclos de cultivo detectados | Python · GEE · Matplotlib |
+| [⚙️ Pipeline Satelital Automático](https://github.com/JeisonRubiano/pipeline-satelital-automatico) | Pipeline que procesa NDVI, NDWI y NBR automáticamente con reporte HTML | Python · GEE · Pandas |
+| [🤖 Clasificación Uso del Suelo ML](https://github.com/JeisonRubiano/clasificacion-suelo-ml-sentinel2) | Random Forest + ESA WorldCover — 81.7% precisión en 5 clases | Python · GEE · Random Forest |
 
 ---
 
